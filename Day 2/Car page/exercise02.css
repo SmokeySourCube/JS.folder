@@ -1,0 +1,24 @@
+h1{
+    background: fixed rgb(170, 231, 255) ;
+    background-image: -moz-linear-gradient(to left red, blue, purple, green, orange);
+}
+h2{
+     background: fixed lightsteelblue;
+}
+img{
+    border: 5px solid black;
+}
+#pricturePg{
+    background: fixed lightgray;
+}
+#demo{
+    font-family: fantasy;
+    font-size: medium;
+    background: fixed lightgray;
+}
+br{
+    background: fixed lightgray;
+}
+body{
+    background-color: rgb(70, 70, 70);
+}

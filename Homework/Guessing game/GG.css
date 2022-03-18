@@ -1,0 +1,35 @@
+body{
+    background: fixed;
+    background-color: rgb(70, 70, 70);
+}
+h1{
+    text-align: center;
+    background: fixed;
+    background-color: rgb(125, 218, 125);
+}
+h2{
+    text-align: center;
+    background: fixed;
+    background-color: rgb(125, 218, 125);
+}
+button{
+    background-color: rgb(125, 218, 125) ;
+    padding: 20px;
+    padding-right: 200px;
+    text-align: right 50px;
+    font-family: fantasy;
+    font-size: large;
+}
+#startbtn{
+    padding-right: 207px;
+}
+span{
+    text-align: center;
+    background: fixed;
+    background-color: rgb(125, 218, 125);
+}
+#reset{
+    position: absolute;
+    left: 83%;
+    top: 19.9%
+}

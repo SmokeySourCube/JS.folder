@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#container {
+    padding: 10px;
+    width: 780px;
+    height: 80%;
+    background-color: #00FF00;
+}
+#track {
+    width: 780px;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    margin: 20px auto;
+}
+#train {
+    height: 92px;
+    width: 100px;
+    position: relative;
+    left: 0px;
+}
+#stopButton {
+    padding-top: 15px;
+    margin: 10px auto;
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    color: red;
+    text-align:center;
+    font-size: 24px;
+    line-height: 30px;
+}
+#startbutton{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    text-align: center ;
+    vertical-align: center;
+    line-height: 20px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-family: fantasy;
+    border-color: blue;
+    background-color: aqua;
+}
+#Stopbutton{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    text-align: center ;
+    vertical-align: center;
+    line-height: 20px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-family: fantasy;
+    border-color: red;
+    background-color: #eb2d2d;
+}
+#resetbutton{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    text-align: center ;
+    vertical-align: center;
+    line-height: 20px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-family: fantasy;
+    border-color: rgb(229, 255, 0);
+    background-color: #b8eb2d;
+}
+    

@@ -1,0 +1,8 @@
+
+h1 {
+    background: linear-gradient(to right, red 5%, rgb(13, 0, 128) 50%, purple 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 5vw;
+}
+
